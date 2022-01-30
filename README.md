@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Ordinx
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
+- CS50x student
+-
 
 
 <!---
